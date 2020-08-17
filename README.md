@@ -1,6 +1,6 @@
 ### 打包成品
 1. 链接：https://magiks.lanzous.com/b06s4m82b
-<font size =  '8' face ="楷体"><b>来个刮刮乐</b></font><font color = 'yello'><b>:joy: ：</b></font><font color = 'red' size = '10'>密码:495q</font>
+<font size =  '8' face ="楷体"><b>玩不了刮刮乐</b></font><font color = 'yello'><b>:joy: ：</b></font><font color = 'red' size = '10'>密码:495q</font>
 
 2. 使用说明：
 ### How to use ?
