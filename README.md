@@ -1,7 +1,8 @@
 ### 打包成品
-链接：https://magiks.lanzous.com/b06s4m82b
-密码:495q
-使用说明：
+1. 链接：https://magiks.lanzous.com/b06s4m82b
+来个刮刮乐:joy:，<font color = 'white>密码:495q</font>
+
+2. 使用说明：
 ### How to use ?
 1. install python 3
 2. pip install pyperclip
