@@ -25,8 +25,8 @@ while True:
     time.sleep(0.1)
     if copyedTemp != copyedText:
         copyedTemp=copyedText
-        copyedTemp = copyedTemp.replace("\r", "\\r").replace("\n", "\\n").replace("-\\r\\n", "").replace("\\r\\n", " ")
-        pyperclip.copy(copyedTemp)
+        copyedText = copyedText.replace("\r", "\\r").replace("\n", "\\n").replace("-\\r\\n", "").replace("\\r\\n", " ")
+        pyperclip.copy(copyedText)
         keyboard_press(Key.alt,'l')
 
     else:
