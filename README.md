@@ -2,7 +2,7 @@
 1. > 链接：https://magiks.lanzous.com/b06s4m82b
 <font size =  '8' face ="楷体"><b>玩不了刮刮乐</b></font><font color = 'yello'><b>:joy: ：</b></font><font color = 'red' size = '10'>密码:495q</font><br> 链接：https://share.weiyun.com/tYnpdISH 密码：iytp4e
 
-2. 使用说明：
+2. 使用说明：https://www.bilibili.com/video/BV19Z4y1K7y3
 ### 使い方 ?
 1. Python 3をインストールする
 2. pip install pyperclip
