@@ -2,7 +2,7 @@ import time
 import pyperclip
 from pynput.keyboard import Key, Controller, KeyCode
 from pynput import mouse
-
+#
 def keyboard_press(Key1,Key2):
     with keyboard.pressed(Key1):
         keyboard.press(Key2)
