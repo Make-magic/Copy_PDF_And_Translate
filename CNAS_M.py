@@ -1,7 +1,7 @@
 import pyautogui
 import pyperclip
 import time
-
+#
 class AC_saladict():
     def __init__(self):
         self.size = pyautogui.size()
