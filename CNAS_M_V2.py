@@ -21,6 +21,7 @@ class AC_saladict():
         pyperclip.copy(tem_text)
         pyautogui.hotkey('alt','l')
         print(tem_text)
+        print('\n')
             
 if __name__ == '__main__':
     tem_text = ''
