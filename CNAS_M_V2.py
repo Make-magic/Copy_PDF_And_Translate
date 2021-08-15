@@ -1,7 +1,7 @@
 import pyautogui
 import pyperclip
 import time
-#
+
 class AC_saladict():
     def __init__(self):
         self.size = pyautogui.size()
@@ -16,20 +16,20 @@ class AC_saladict():
             if tem_text != text:
                 tem_text = text
                 self.convey_saladict()
-        elif self.pos[0] > self.size[0] - 10:
-            pyautogui.hotkey('ctrl','c')
-            exit()
             
     def convey_saladict(self):
         pyperclip.copy(tem_text)
         pyautogui.hotkey('alt','l')
+        print(tem_text)
             
-
 if __name__ == '__main__':
     tem_text = ''
     text = ''
     print('准备就绪，请复制')
     pyautogui.FAILSAFE = True
     while True:
-        time.sleep(0.1)
-        AC_saladict().copy()
+        try:
+            time.sleep(0.1)
+            AC_saladict().copy()
+        except:
+            pass
